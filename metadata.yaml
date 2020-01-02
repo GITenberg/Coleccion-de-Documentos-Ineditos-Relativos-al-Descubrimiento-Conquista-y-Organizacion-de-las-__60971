@@ -1,0 +1,32 @@
+_repo: Coleccion-de-Documentos-Ineditos-Relativos-al-Descubrimiento-Conquista-y-Organizacion-de-las-__60971
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Real Academia de la Historia (Spain)
+    aliases:
+    - Academia de la Historia, Madrid
+    - Regia Historiae Academia Hispana
+    - Historia, Real Academia de la
+    gutenberg_agent_id: '47252'
+    url: http://www.gutenberg.org/2009/agents/47252
+    wikipedia: https://es.wikipedia.org/wiki/Real_Academia_de_la_Historia
+description: ''
+gutenberg_issued: '2019-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60971'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización
+  de las Antiguas Posesiones Españolas de Ultramar. Tomo 9, De Los Documentos Legislativos,
+  II
+url: http://www.gutenberg.org/ebooks/60971
